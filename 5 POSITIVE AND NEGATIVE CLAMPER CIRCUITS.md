@@ -1,5 +1,5 @@
 ## Exp. No. 5
-**Date:**  
+ 
 
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
 <img width="740" height="585" alt="image" src="https://github.com/user-attachments/assets/dc3afb1d-31c1-4b7c-b5af-65ddfe042778" />
@@ -14,11 +14,14 @@
 
 # Tabulation
 
+<img width="1003" height="1280" alt="image" src="https://github.com/user-attachments/assets/83fb80b6-2cbf-4fa8-aabc-12888e5bb349" />
 
 # Graph
 
+<img width="776" height="1280" alt="image" src="https://github.com/user-attachments/assets/993178cf-644f-4b3c-a2c7-9ed8bdaa129a" />
 
-# Sample images 
-
+<img width="760" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed8f21c1-f0d5-41a5-92f6-6411f420dd41" />
 
 # Result
+Thus different clamper circuits are studied and their output waveforms are plotted. 
+
