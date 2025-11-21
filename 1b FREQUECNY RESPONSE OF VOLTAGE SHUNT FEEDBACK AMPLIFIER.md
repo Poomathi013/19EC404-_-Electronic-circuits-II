@@ -1,5 +1,5 @@
-## Exp. No. 1(b)
-**Date:**  
+[## Exp. No. 1(b)
+**Date: 29.8.2025**  
 
 ## FREQUECNY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
 <img width="822" height="889" alt="image" src="https://github.com/user-attachments/assets/a1f70018-04e2-4b1d-8a91-695ddb6af202" />
@@ -8,6 +8,9 @@
 <img width="723" height="995" alt="image" src="https://github.com/user-attachments/assets/591791ac-b321-4c7b-8223-582f9353519c" />
 
 # Circuit Diagram 
+
+![WhatsApp Image 2025-11-16 at 12 00 54 PM](https://github.com/user-attachments/assets/f8e370bd-6468-4d6f-8355-be4c4e8c55d8)
+
 # Without Feedback:
 <img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/4b0a599c-6d35-4616-a306-2360b5f4f172" />
 
@@ -16,11 +19,11 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-16 at 12 00 54 PM (1)](https://github.com/user-attachments/assets/98506abe-01a3-4c71-9f3a-f9ddd553dbaa)
 
 # Graph
 
-
-# Sample images 
+![WhatsApp Image 2025-11-16 at 12 00 55 PM](https://github.com/user-attachments/assets/37768c4e-41c0-43ab-8301-03733ee52278)
 
 
 ### **Result**
@@ -28,11 +31,11 @@
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1 = 120 Hz | f1'' = 62 Hz |
+| 2 | Upper cut-off frequency | f2 = 11 KHz | f2'' = 1.6 MHz |
+| 3 | Bandwidth | \( BW = fh - fl = 10880) | \( BW = f'h - f'l = 999.5) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 23.9) | \( A'{v(mid)} = 23.5) |
+| 5 | Gain at half power point | G0 = 20 | G0'' = 20.1 |
 
 ---
 
@@ -43,3 +46,4 @@ The frequency response of the voltage-shunt feedback amplifier was studied. It w
 
 
 **End of Experiment**
+](https://github.com/LakshyaSrini/19EC404-_-Electronic-circuits-II/blob/main/1b%20FREQUECNY%20RESPONSE%20OF%20VOLTAGE%20SHUNT%20FEEDBACK%20AMPLIFIER.md)
